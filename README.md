@@ -1,4 +1,4 @@
 ## To run project download source code, unzip it, in cmd :
-### `cd ShopNow`
-### Run `npm install`
-### Then run `npm start`
+### 1. `cd ShopNow`
+### 2.Run `npm install`
+### 3.Then run `npm start`
